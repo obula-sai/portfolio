@@ -3,7 +3,7 @@
     {
         "name": "Student Management System",
         "desc": "A Python-based full-stack application designed for faculty to efficiently manage their students records with essential tools",
-        "image": "SMAD",
+        "image": "SMAD1",
         "links": {
             "view": "https://github.com/obula-sai/student-management-system"
         }
@@ -11,7 +11,7 @@
     {
         "name": "Dynamic QUIZ App",
         "desc": "Dynamic quiz app built with JavaScript featuring interactive UI for engaging user experience and learning",
-        "image": "quiz",
+        "image": "quiz1",
         "links": {
             "view": "https://obula-sai.github.io/about/new/quiz1.html"
         }
@@ -20,26 +20,35 @@
     {
         "name": "Sales Forecasting",
         "desc": "Sales forecasting model developed with SARIMA technique, utilized historical data to predict future sales trends",
-        "image": "DS",
+        "image": "forecast",
         "links": {
             "view": "https://github.com/obula-sai/DataScience-Projects/blob/main/Time-series-forecasting/sales_Forecast.ipynb"
         }
     },
     {
-        "name": "Ecommerce",
-        "desc": "An e-commerce application was developed using Python full-stack, integrated frontend, backend & database functionalities",
-        "image": "ecommerce",
-        "links": {
-            "view": "https://github.com/obula-sai/Ecommerce"
-        }
-    },
-    {
         "name": "Chatbot",
         "desc": "A chatbot was developed with AWS services and Python to provide medical information and assistance",
-        "image": "chatbot",
+        "image": "chatbot2",
         "links": {
             "view": "https://github.com/obula-sai/ChatBot"
         }
+    },
+    {
+        "name": "React-Django Ecommerce",
+        "desc": "A shopping website was created using ReactJS and Django to make it more user-friendly for people to browse and buy products",
+        "image": "ecommerce_app_img1",
+        "links": {
+            "view": "https://github.com/obula-sai/Django-React-Ecommerce-App"
+        }
+    },
+    {
+        "name": "React-Django Blogify",
+        "desc": "Blogify is a fully functional web application created using ReactJS and Django, seamless experience for users to create, edit, and delete their blog posts",
+        "image": "blog_app_img",
+        "links": {
+            "view": "https://github.com/obula-sai/Django-React-Blogify-App"
+        }
     }
+
 
 ]
